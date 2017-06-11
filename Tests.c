@@ -109,15 +109,3 @@ int main() {
 }
 
 
-
-/*int main(int argc, char const *argv[])
-{
-
-
-	Graph* graph = createGraph(5);
-	initGraph(graph);
-	printGraph(graph);
-	stackDFS(graph, 0);
-	destructGraph(graph);
-	return 0;
-}*/
